@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data Folder with raw and processed data
+# /data/
+
+# Pycharm
+.idea
