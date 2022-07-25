@@ -39,7 +39,11 @@ Structure of the repo
 
 # Use case and data 
 
-![Alt text](assets/img/Use Case.png "Use Case Personas")
+<p>
+    <img src="assets/img/Use Case.png"/>
+</p>
+
+
 
 * We use a credit approval example case with different personas involved: the bank customer, the loan approval officer & supervisor, and regulatory bodies. 
 
