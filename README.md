@@ -16,6 +16,7 @@ It does not cover:
 - Robustness
 - Privacy
 - Transparency 
+
 For more information and reading materials on those, please refer to [useful links and further reading](#useful-links-and-further-reading)
 
 <p>
@@ -48,7 +49,7 @@ git clone git@github.com:ellenhvn/trustworthy-ai-training-dn22.git
 ```
 Alternatively you can use one of the other options available via the green Code button.
 
-For the environment set-up you can use Conda or pip, following either one of the two options listed below. 
+For the environment set-up you can use Conda or pip, following either one of the two options listed below as you prefer.
 
 ### Environment set-up: Option 1 (Conda)
 
@@ -93,6 +94,7 @@ Structure of the repo
     │   └─── models
     └── README.md
     └── environment.yaml
+    └── requirements.txt
 
 # Use case and data
 
