@@ -48,7 +48,7 @@ git clone git@github.com:ellenhvn/trustworthy-ai-training-dn22.git
 ```
 Alternatively you can use one of the other options available via the green Code button.
 
-### Environment set-up: Option 1 (recommended)
+### Environment set-up: Option 1 (Conda - recommended)
 
 The setup will work best if you simply create a Conda environment by typing the following in a terminal:
 ```
@@ -58,22 +58,14 @@ conda env create -f environment.yml
 conda activate dn-tai-env
 ```
 
-### Environment set-up: Option 2
+### Environment set-up: Option 2 (Pip)
 
-Alternatively you can use the requirements.txt to create a new empty venv or conda environment
+Alternatively you can use the requirements.txt to create a new empty venv (or conda) environment
+
+With Pip:
 ```
-conda create --name dn-tai-env python=3.9
-```
-then activate it using
-```
-conda activate dn-tai-env
-```
-3. Navigate to the cloned repo:
-```
-cd path/to/the/folder/trustworthy-ai-training-dn22
-```
-and install all dependencies via:
-```
+python3 -m venv env
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
