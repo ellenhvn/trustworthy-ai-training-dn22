@@ -45,7 +45,7 @@ def create_train_val_data(df:pd.DataFrame) -> \
         th.Tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """
     Replace target values with 0 & 1
-    In the inital data set, 1 is considered
+    In the inital data set, 1 is considered goood credit risk, 2 bad
     Split data into features and targets
     Split data int train and validation set
     :param df: Dataframe with OHE and preprocessed data
