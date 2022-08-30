@@ -44,8 +44,8 @@ We will not be able to cover all content together during the workshop, but you c
 **If you run into issues during the local setup, you can view the html versions of the notebooks to follow along!** 
 (or view the notebooks here on Github) 
 
-Clone this repository on your local machine by typing the following on a terminal (or by using one 
-of the other options available via the green Code button).
+Clone this repository on your local machine by typing the following on a terminal *(or by using one 
+of the other options available via the green Code button)*.
 
 ```
 git clone git@github.com:ellenhvn/trustworthy-ai-training-dn22.git
@@ -108,14 +108,6 @@ For this workshop we use the German credit data set
 (https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)). 
 It contains details of 1000 loan applicants with 20 attributes and the classification whether an applicant is 
 considered a "good" or a "bad" credit risk (target).
-
-We use a credit approval example case with different personas involved: the bank customer, the loan approval officer 
-& supervisor, and regulatory bodies. 
-
-<p>
-    <img src="assets/img/Use Case.png"/>
-</p>
-
 
 # Useful links and further reading 
 
