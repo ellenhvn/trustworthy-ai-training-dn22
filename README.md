@@ -51,7 +51,7 @@ of the other options available via the green Code button)* & navigate to the clo
 git clone git@github.com:ellenhvn/trustworthy-ai-training-dn22.git
 ```
 ```
-cd path/to/the/folder/trustworthy-ai-training
+cd path/to/the/folder/trustworthy-ai-training-dn22
 ```
 
 For the environment set-up you can use Conda or pip, following either one of the two options listed below as you prefer.
