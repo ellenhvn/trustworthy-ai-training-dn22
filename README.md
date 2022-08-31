@@ -45,10 +45,13 @@ We will not be able to cover all content together during the workshop, but you c
 (or view the notebooks here on Github) 
 
 Clone this repository on your local machine by typing the following on a terminal *(or by using one 
-of the other options available via the green Code button)*.
+of the other options available via the green Code button)* & navigate to the cloned repo.
 
 ```
 git clone git@github.com:ellenhvn/trustworthy-ai-training-dn22.git
+```
+```
+cd path/to/the/folder/trustworthy-ai-training
 ```
 
 For the environment set-up you can use Conda or pip, following either one of the two options listed below as you prefer.
